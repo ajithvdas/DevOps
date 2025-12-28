@@ -3,6 +3,8 @@ This guide outlines the process of deploying a WordPress site using a MySQL back
 
 ## Prerequisites
 
+OS: Ubuntu 22.04
+
 Docker Engine installed and running.
 
 Sufficient disk space (verified via ```df -h```).
